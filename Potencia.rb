@@ -1,0 +1,2 @@
+numeros = []
+contador = 1
